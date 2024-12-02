@@ -100,6 +100,11 @@ body{
     align-items: center;
 }
 
+hr {
+    margin-left: 21px;
+    margin-right: 21px;
+}
+
 .cube .creator img{
     margin: 0;
     max-width: 30px;
